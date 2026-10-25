@@ -1,0 +1,6 @@
+{
+  "name": "Carlsbad Heating Services",
+  "description": "Residential heating, air conditioning, heat pump, furnace, and home comfort HVAC services in Carlsbad, CA and nearby North County communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
